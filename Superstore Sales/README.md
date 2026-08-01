@@ -20,9 +20,9 @@ This Power BI dashboard transforms raw transactional data from a US-based supers
 
 ## 📽️ Dashboard Preview
 
-https://github.com/krish-desai-123/Superstore-Sales-Dashboard/assets/Video.mp4
+[![Dashboard Preview](Screenshot.png)](https://youtu.be/Y2ZF6BfYeUg)
 
-> *Full interactive walkthrough of the Superstore Sales Dashboard — slicers, KPI cards, and chart drill-downs.*
+> *Click the image above to watch the full dashboard walkthrough — slicers, KPI cards, and chart drill-downs.*
 
 ---
 
@@ -54,8 +54,7 @@ https://github.com/krish-desai-123/Superstore-Sales-Dashboard/assets/Video.mp4
  ┃ ┗ 📜 money.png            # Money icon (sidebar)
  ┣ 📜 Superstore_Sales.pbix  # Power BI report file
  ┣ 📜 Superstore.csv         # Raw dataset (9,994 records × 21 columns)
- ┣ 📜 Screenshot.png         # Dashboard screenshot
- ┗ 📜 Video.mp4              # Dashboard walkthrough recording
+ ┗ 📜 Screenshot.png         # Dashboard screenshot
 ```
 
 ---
@@ -115,8 +114,8 @@ A scrollable city-level chart showing sales split by Furniture, Office Supplies,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/krish-desai-123/Superstore-Sales-Dashboard.git
-cd Superstore-Sales-Dashboard
+git clone https://github.com/krish-desai-123/Power-BI.git
+cd "Power-BI/Superstore Sales"
 ```
 
 ### 2. Open the Report
