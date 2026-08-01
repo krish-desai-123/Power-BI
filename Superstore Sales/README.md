@@ -20,7 +20,7 @@ This Power BI dashboard transforms raw transactional data from a US-based supers
 
 ## 📽️ Dashboard Preview
 
-https://github.com/krish-desai-123/Superstore-Sales-Dashboard/assets/Video.mp4
+https://github.com/krish-desai-123/Power-BI/Superstore Sales/Video.mp4
 
 > *Full interactive walkthrough of the Superstore Sales Dashboard — slicers, KPI cards, and chart drill-downs.*
 
