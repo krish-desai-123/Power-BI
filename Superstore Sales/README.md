@@ -20,11 +20,7 @@ This Power BI dashboard transforms raw transactional data from a US-based supers
 
 ## 📽️ Dashboard Preview
 
-<<<<<<< HEAD
-[![Dashboard Preview](Screenshot.png)](https://youtu.be/Y2ZF6BfYeUg)
-=======
-https://github.com/krish-desai-123/Power-BI/Superstore Sales/Video.mp4
->>>>>>> 4d4c7fbd2d3bcfedfdc0a81039d6d9c0c912a380
+[![Dashboard Preview](https://raw.githubusercontent.com/krish-desai-123/Power-BI/main/Superstore%20Sales/Screenshot.png)](https://youtu.be/Y2ZF6BfYeUg)
 
 > *Click the image above to watch the full dashboard walkthrough — slicers, KPI cards, and chart drill-downs.*
 
